@@ -1,0 +1,9 @@
+.item {
+  display: flex;
+  padding: 5px 10px;
+}
+
+.btn {
+  display: inline-block;
+  margin-left: 20px;
+}
